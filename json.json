@@ -1,0 +1,8 @@
+{
+    "name":"logboek",    
+    "timestamps": [
+        { "time":"0", "location":"pc" },
+        { "time":"1", "location":"pc" },
+        { "time":"2", "location":"pc" }
+    ]
+ }
