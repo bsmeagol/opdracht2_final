@@ -7,8 +7,18 @@
 #IncludeRegexTransform: 
 
 /home/pi/cmake/cgi_post_to_json.c
+time.h
+-
+wiringPi.h
+-
+stdint.h
+-
+unistd.h
+-
 stdio.h
 -
 stdlib.h
+-
+string.h
 -
 
